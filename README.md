@@ -10,3 +10,11 @@ Verknüpfung der Daten aus dem Zensus 2022 (2011) mit Angebotsdaten aus GTFS
     
 - Grenzen
     - VBN erzeugt aus OSM
+
+
+## Analysen
+- Ermitteln der Abfahrten je Haltestelle an einem bestimmten Verkehrstag
+- Verschneiden mit dem 100m-Gitterdaten (Mittelpunkt) aus dem Zensus
+- Verschneiden mit den Gemeindegrenzen
+- Ermitteln der erschlossenen Einwohner je Gemeinde
+- Parameter wie Mindestanzahl von Abfahrten je Haltestelle
