@@ -10,6 +10,7 @@ Verknüpfung der Daten aus dem Zensus 2022 (2011) mit Angebotsdaten aus GTFS
     
 - Grenzen
     - VBN erzeugt aus OSM
+    - Gemeinden und Landkreise aus https://www.destatis.de/static/DE/zensus/gitterdaten/Shapefile_Zensus2022.zip
 
 
 ## Analysen
