@@ -7,12 +7,12 @@ Verknüpfung der Daten aus dem Zensus 2022 (2011) mit Angebotsdaten aus GTFS
 
 - Zensus
     - Gitterdaten zum Download für geografische Informationssysteme (GIS) https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Zensus2022/_inhalt.html#sprg1403932
-        - entpackte Shape-Dateien im Ornder
+
     
 - Grenzen
     - VBN erzeugt aus OSM
     - Gemeinden und Landkreise aus https://www.destatis.de/static/DE/zensus/gitterdaten/Shapefile_Zensus2022.zip
-        - kann mit der Community Erweiterung zipfs direkt nach DuckDB importiert werden, entpacken ist nicht notwendig
+        - im Verzeichnis entpacken
 
 
 ## Analysen
